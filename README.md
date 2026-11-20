@@ -34,9 +34,9 @@ Exploratory data analysis of Zomato restaurant listings using Python. The projec
 
 ## Charts
 
-![Average dining rating by city](images/avg_dining_rating_by_city_final.png)
+![Average dining rating by city](avg_dining_rating_by_city_final.png)
 
-![Distribution of dining ratings](images/dining_rating_distribution.png)
+![Distribution of dining ratings](dining_rating_distribution.png)
 
 ## Insights
 
